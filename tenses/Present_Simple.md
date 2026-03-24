@@ -11,9 +11,13 @@ Present Simple
 
 1.	He, She, It + глагол с окончанием s. 
 2.	We, You, I, They + глагол
+
 Как мы образуем отрицание в Present Simple?
+
 1.	He, She, It + does not (doesn’t) + глагол
 2.	We, You, I, They + do not (don’t) + глагол
+
 Как мы образуем вопрос в Present Simple?
+
 1.	Does + He, She, It + глагол
 2.	Do + We, You, I, They + глагол

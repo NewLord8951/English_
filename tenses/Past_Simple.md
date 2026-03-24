@@ -7,8 +7,12 @@ Past Simple
 
 Как мы образуем положительное предложение в Past Simple?
 
-He, She, It, I, We, You, They + глагол с окончанием ed (кроме неправильных глаголов)
+He, She, It, I, We, You, They + глагол с окончанием ed (кроме неправильных глаголов, которые во второй форме)
+
 Как мы образуем отрицание в Past Simple?
+
 He, She, It, We, You, I, They + did not (didn’t) + глагол
+
 Как мы образуем вопрос в Past Simple?
+
 Did + He, She, It, We, You, I, They + глагол
