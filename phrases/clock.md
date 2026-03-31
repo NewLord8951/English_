@@ -35,3 +35,5 @@
 Также, вместо a.m. вы можете использовать выражение - in the morning, а вместо p.m. использовать in the evening, например, 05.15 (пятнадцать минут шестого утра) - it’s a quarter past five a.m. или it’s a quarter past five in the morning.
 В американском английском вместо past довольно часто используется предлог after. А вместо предлога to возможно использование предлогов of, before и till.
 
+half - половина
+quarter - четверть
