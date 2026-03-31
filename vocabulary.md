@@ -9,3 +9,7 @@ door - дверь
 bell - колокольчик
 
 doorbell  - дверной звонок
+
+begin began begun - начинать
+
+make made made - делать, производить
