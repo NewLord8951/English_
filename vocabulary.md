@@ -1,6 +1,11 @@
 complete - заполнять
+
 own - собственный
+
 ring rang rung - звонить
+
 door - дверь
+
 bell - колокольчик
+
 doorbell  - дверной звонок
