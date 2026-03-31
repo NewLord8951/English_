@@ -15,3 +15,11 @@ begin began begun - начинать
 make made made - делать, производить
 
 make a noise - шуметь
+
+fall fell fallen - падать
+
+make a noise - шуметь
+
+make a mistake - ошибаться
+
+make friends - заводить друзей
