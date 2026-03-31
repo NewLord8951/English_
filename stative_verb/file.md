@@ -57,13 +57,7 @@ Dynamic verb = действие (можно использовать в Continuo
 | Владеть, иметь | Stative | I **have** a car. |
 | Участвовать в действии | Dynamic | I'**m having** a party / a bath / a good time. |
 
-### SEE
-| Значение | Тип | Пример |
-|----------|-----|--------|
-| Видеть глазами / понимать | Stative | I **see** what you mean. / I **see** her now. |
-| Встречаться, иметь отношения | Dynamic | I'**ve been seeing** my boyfriend for 3 years. |
-
-### TASTE / SMELL / FEEL
+### TASTE / SMELL / FEEL / SEE
 | Значение | Тип | Пример |
 |----------|-----|--------|
 | Обладать вкусом/запахом/ощущением | Stative | This soup **tastes** great. |
@@ -80,16 +74,6 @@ Dynamic verb = действие (можно использовать в Continuo
 Понимаю → understand → I am understanding
 Принадлежит → belong → It is belonging
 Кажется → seem → It is seeming
-
-
-## Мнемотехника для запоминания
-
-**S.M.A.R.T.** — ключевые категории стативных глаголов:
-**S**enses (восприятие): *see, hear, smell, taste, feel*
-**M**ental states (мышление): *know, believe, understand, remember*
-**A**ttitudes (отношение): *like, love, hate, prefer, want*
-**R**elations & possession (отношения и владение): *belong, own, have, possess*
-**T**raits & states (характеристики): *be, seem, appear, weigh, contain*
 
 **Совет**: При сомнении — спросите себя: *«Это действие, которое можно увидеть в процессе, или состояние?»*  
 Если состояние → скорее всего, это stative verb → избегайте Continuous.
