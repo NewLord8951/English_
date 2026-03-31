@@ -35,3 +35,13 @@ age - век, столетие
 for ages - сто лет, давно
 
 find found found - найти
+
+ai - artificial intelligence (искусственный интеллект)
+
+discover - открывать (когда уже существовало)
+
+cover - покрывать, накрывать
+
+invent - изобретать
+
+invention - изобретение
