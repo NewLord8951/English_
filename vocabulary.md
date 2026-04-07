@@ -47,3 +47,5 @@ invent - изобретать
 invention - изобретение
 
 have had had - иметь, обладать
+
+Bon appetit - приятного аппетита
