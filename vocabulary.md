@@ -61,3 +61,9 @@ think thought thought - думать
 take took taken - брать, взять
 
 plate - тарелка
+
+hardware - железо
+
+software - по
+
+prevent - предотвратить
