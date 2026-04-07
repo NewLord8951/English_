@@ -49,3 +49,5 @@ invention - изобретение
 have had had - иметь, обладать
 
 Bon appetit - приятного аппетита
+
+go went gone - ходить
