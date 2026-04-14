@@ -4,12 +4,13 @@ import os
 FILE_NAME = "vocabulary.json"
 
 if not os.path.exists(FILE_NAME):
-    print(" Файл vocabulary.json не найден!")
-    print(" Создай файл и положи его рядом со скриптом")
+    print("Файл vocabulary.json не найден!")
+    print("Создай файл и положи его рядом со скриптом")
     exit()
 
 with open(FILE_NAME, "r", encoding="utf-8") as file:
     vocab = json.load(file)
+
 
 def search_by_key(word):
     word = word.lower()
@@ -17,6 +18,7 @@ def search_by_key(word):
         print(f"Перевод: {vocab[word]}")
     else:
         print("Слово не найдено")
+
 
 def search_by_value(value):
     value = value.lower()
