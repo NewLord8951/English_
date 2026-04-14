@@ -4,8 +4,8 @@ import os
 FILE_NAME = "vocabulary.json"
 
 if not os.path.exists(FILE_NAME):
-    print("❌ Файл vocabulary.json не найден!")
-    print("👉 Создай файл и положи его рядом со скриптом")
+    print(" Файл vocabulary.json не найден!")
+    print(" Создай файл и положи его рядом со скриптом")
     exit()
 
 with open(FILE_NAME, "r", encoding="utf-8") as file:
