@@ -64,6 +64,6 @@ plate - тарелка
 
 hardware - железо
 
-software - по
+software - программное обеспечение
 
 prevent - предотвратить
