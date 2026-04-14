@@ -45,3 +45,25 @@ cover - покрывать, накрывать
 invent - изобретать
 
 invention - изобретение
+
+have had had - иметь, обладать
+
+Bon appetit - приятного аппетита
+
+go went gone - ходить
+
+wait - ждать
+
+waiter - официант
+
+think thought thought - думать
+
+take took taken - брать, взять
+
+plate - тарелка
+
+hardware - железо
+
+software - по
+
+prevent - предотвратить
