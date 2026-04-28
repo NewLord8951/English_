@@ -1,24 +1,18 @@
-# Present Perfect Continuous
+# Past Perfect Continuous
 
 *В каких ситуациях мы используем это время?*
-1.	Действие началось в прошлом и длилось до момента сейчас. Сейчас оно закончилось или может продолжиться.
-2.	Действий, начавшихся и завершенных в прошлом, но важных для говорящего в данный конкретный момент
-3.	Действий, начавшихся и завершенных до момента речи, но имеющих явный видимый эффект или результат
+1. Прошлое перед прошлым
+2. Нарушенная хронология повествания
 ____
 
 *Как мы образуем положительное предложение в Present Perfect Continuous?*
 
-He, She, It + has been + глагол с окончанием -ing
-I, We, You, They +have been + глагол с окончанием -ing
+He, She, It, I, We, You, They + had been + глагол с окончанием -ing
 
 *Как мы образуем отрицание в Present Perfect Continuous?*
 
-He, She, It + has not been + глагол с окончанием -ing
-I, We, You, They + have not been + глагол с окончанием -ing
+He, She, It, I, We, You, They + had not been (hadn't) + глагол с окончанием -ing
 
 *Как мы образуем вопрос в Present Perfect Continuous?*
 
-Has + He, She, It + been + глагол с окончанием -ing
-Have + I, We, You, They + been + глагол с окончанием -ing
-
-!!___Present Perfect Continuous не употребляется для описания последовательности действий!___!!
+Had + He, She, It, I, We, You, They + had been + глагол с окончанием -ing
